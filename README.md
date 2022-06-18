@@ -1,0 +1,1 @@
+A simple project to demonstrate Django Models.
